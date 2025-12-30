@@ -1,0 +1,7 @@
+mehmedi-254-data-solution/
+│
+├── server.js
+├── package.json
+├── .gitignore
+├── README.md
+├── .env.example
